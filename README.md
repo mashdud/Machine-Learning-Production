@@ -9,3 +9,13 @@
  # Install Your Dependencies
 
 - pip install -r requirements.txt
+
+
+# Database 
+
+- https://account.mongodb.com/account/login
+
+
+# Dataset 
+
+- https://www.kaggle.com/datasets/moro23/easyvisa-dataset
