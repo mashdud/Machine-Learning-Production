@@ -19,3 +19,7 @@
 # Dataset 
 
 - https://www.kaggle.com/datasets/moro23/easyvisa-dataset
+
+# Handling exception
+
+- https://docs.python.org/3/tutorial/errors.html#handling-exceptions
