@@ -23,3 +23,16 @@
 # Handling exception
 
 - https://docs.python.org/3/tutorial/errors.html#handling-exceptions
+
+
+
+## Workflow
+
+1. constants
+2. entities
+3. Components
+4. Pipeline
+
+# Export the environment variable
+
+export MONGODB_URL="mongodb+srv://<username>:<password>...."

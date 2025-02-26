@@ -1,8 +1,5 @@
-from us_visa.exception import USvisaException
 
-import sys
+from us_visa.pipline.training_pipeline import TrainPipeline
 
-try:
-    x = 1 / 0  # Division by zero error
-except Exception as e:
-    raise(e,sys)
+obj = TrainPipeline()
+obj.run_pipeline()
